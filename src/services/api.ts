@@ -1,0 +1,2 @@
+//API DO FIREBASE
+export {};
